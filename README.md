@@ -1,4 +1,4 @@
-# Pommes-und-Disko
+# Pommes und Disko
 Weil, das Leben ist nicht immer nur Pommes und Disko, aber fast.
 
 Sammlung von Liedern für Obsidian. Es werden folgende Plugins benötigt:
